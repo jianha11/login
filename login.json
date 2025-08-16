@@ -1,14 +1,6 @@
-[
-  {
-    "nama": "zixtzy",
-    "password": "201228"
-  },
-  {
-    "nama": "jian",
-    "password": "jian12"
-  },
-  {
-    "nama": "tesaja",
-    "password": "tesaja"
-  }
-]
+{
+  "users": [
+    { "nama": "admin", "password": "admin123", "role": "admin" },
+    { "nama": "user", "password": "user123", "role": "user" }
+  ]
+}
